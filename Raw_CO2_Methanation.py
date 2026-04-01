@@ -1,6 +1,6 @@
 # Reactor 2D for CO2 Methanation using PH3 model (pseudohomogeneous with radial dispersion)
 
-# Created by João PB "PlumBum" Nunes 
+# Created by J"PlumBum"Nunes  
 # Last updated on 1st April
 
 # Credit to Kai et al 1987; Guyer et al 2009; Koschany et al 2016; Champom et al 2019; Farsi et al 2020; 
